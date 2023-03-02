@@ -3,7 +3,7 @@
 51.144.175.30
 
 [linux]
-host1 ansible_host=192.168.6.23
+host1 ansible_host=175.178.52.11
 
 [linux:vars]
 ansible_user=vagrant
