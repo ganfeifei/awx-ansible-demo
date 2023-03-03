@@ -7,4 +7,4 @@ host1 ansible_host=175.178.52.11
 
 [linux:vars]
 ansible_user=root
-#ansible_ssh_pass=vagrant
+ansible_ssh_pass=vagrant
